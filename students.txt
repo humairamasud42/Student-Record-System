@@ -1,5 +1,5 @@
 Name: Ayaz Ali, CGPA: 3.5
 Name: Faraiha Khan, CGPA: 2.1
 Name: Zainab Raza, CGPA: 3.9
-Name: Humaira Masud, CGPA: 3.5
+Name: Farhan Khan, CGPA: 3.5
 
