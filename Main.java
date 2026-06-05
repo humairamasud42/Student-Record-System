@@ -11,7 +11,7 @@ public class Main {
         students.add(new Student("Ayaz Ali", 3.5));
         students.add(new Student("Faraiha Khan", 2.1));
         students.add(new Student("Zainab Raza", 3.9));
-        students.add(new Student("Humaira Masud", 3.5));
+        students.add(new Student("Farhan Khan", 3.5));
         try (BufferedWriter writer=
                      new BufferedWriter(new FileWriter("students.txt"))) {
 
